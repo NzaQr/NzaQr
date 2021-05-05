@@ -1,7 +1,7 @@
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Nazareno</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 👨‍💻 Check out my latest project: [Where in the world?](https://nzaqr.github.io/countries-app/)
+- 👨‍💻 Check out my latest project: [myteam](https://my-team-nzaqr.vercel.app/)
 
 - 🌱 I’m currently learning **advanced React and Sass**
 
