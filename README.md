@@ -3,7 +3,7 @@
 
 - 👨‍💻 Check out my latest project: [Pic Some](https://pic-some.vercel.app/)
 
-- 🌱 I’m currently learning **advanced React**
+- 🌱 I’m currently learning **Next.js**
 
 - 🔭 I am currently working on improving my projects
 
