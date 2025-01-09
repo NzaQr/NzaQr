@@ -1,15 +1,9 @@
 <h1 align="center">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Nazareno</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate React dev from Argentina</h3>
 
-- 👨‍💻 Check out my latest project: [Pic Some](https://pic-some.vercel.app/)
-
-- 🌱 I’m currently learning **Next.js**
-
-- 🔭 I am currently working on improving my projects
+- 🌱 I’m currently learning **Swift** 🍎 and working on React Native Projects 📱
 
 - 📫 Reach me **naz.quiroga@gmail.com**
-
-- 📄 My Resume [https://drive.google.com/file/d/1Jr987I5vIYRfpZS3cpSXYKNyZz8TRT3B/view?usp=sharing](https://drive.google.com/file/d/1Jr987I5vIYRfpZS3cpSXYKNyZz8TRT3B/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
